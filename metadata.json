@@ -1,0 +1,6 @@
+{
+  "name": "Walk Meter",
+  "description": "Real-time walking distance meter with GPS tracking, step counter, speed, and digital metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
